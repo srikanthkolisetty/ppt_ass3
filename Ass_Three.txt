@@ -1,0 +1,15 @@
+6. Benefits of encapsulation
+Encapsulation prevents direct access to data members and data methods by any external classes. 
+The encapsulation process improves the security of the encapsulated data.
+
+7. No java is not 100% pure object oriented as it contains primitive data type.
+
+8.advantage of abstraction is it can hide the details about the implementation and we can just make use of the
+functionality.
+
+9.abstraction is the process of hiding the implementation details for example when we press the accelerator of car the speed of 
+the car gets increased we just need to know that we need to press the accelerator to increase the speed we do not need to 
+know how it is implemented.
+
+10. final class in java is the one which final keyword used at class level signature and the final class cannot be
+    inherited.
